@@ -6,7 +6,7 @@
   "keywords": [
     "swk23c8",
   ],
-  "homepage": "https://swk23c8.github.io/",
+  "homepage": "swk23c8.github.io",
   "main": "src/index.js",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "latest",
