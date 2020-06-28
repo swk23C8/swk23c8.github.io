@@ -1,0 +1,12 @@
+{
+  "short_name": "swk23c8",
+  "name": "swk23c8",
+  "icons": [
+    {
+      "src": "images/avatar.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": "/"
+}
